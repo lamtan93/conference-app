@@ -1,0 +1,1 @@
+alert('Conférence App démarré !');
