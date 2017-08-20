@@ -1,7 +1,7 @@
 const path = require('path');
 /*var UglifyJSPlugin = require('uglifyjs-webpack-plugin');*/
 var HtmlWebpackPlugin = require('html-webpack-plugin');
-
+//var jquery = require('jquery');
 //console.log( path.resolve(__dirname, "build"));
 
 module.exports = {
@@ -14,6 +14,7 @@ module.exports = {
 	},
 	plugins: [
 	/*new UglifyJSPlugin(),*/
-	new HtmlWebpackPlugin()
+	new HtmlWebpackPlugin(),
+	//new jquery();
 	]
 };
