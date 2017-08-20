@@ -1,0 +1,1507 @@
+{
+  "speakers" : [
+    {
+      "id": "cmottier",
+      "topspeaker": true,
+      "firstname": "Cyril",
+      "lastname": "Mottier",
+      "image": "cmottier_360x360.jpg",
+      "category": {
+        "class": "mobile",
+        "title": "Mobile"
+      },
+      "ribon": {
+        "class": "gde",
+        "title": "Google Developer Expert",
+        "link": "https://developers.google.com/experts/",
+        "tile_long": "Google Developer Expert"
+      },
+      "company": "Captain Train",
+      "about": "Cyril Mottier is the Android Lead at Captain Train and Android Google Developer Expert. Passionate about technology and design, Cyril is an avid lover of Android and a multi-skilled engineer. He is actively involved in the Android community and shares his passion writing blog posts, creating open source libraries and giving talks. His motto: â€œDo less, but do it insanely greatâ€?",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/+CyrilMottier/"},
+        {"class": "twitter", "link": "https://twitter.com/cyrilmottier"},
+        {"class": "github", "link": "https://github.com/cyrilmottier"},
+        {"class": "link", "link": "http://www.cyrilmottier.com/"}
+      ]
+    },
+    {
+      "id": "eissartial",
+      "topspeaker": false,
+      "firstname": "Etienne",
+      "lastname": "Issartial",
+      "image": "commitstrip_360x360.jpg",
+      "category": {
+        "class": "discovery",
+        "title": "Keynote"
+      },
+      "company": "CommitStrip",
+      "about": "Etienne Issartial est le dessinateur de CommitStrip, chaque jour il met en scÃ¨ne et dessine la strip que son ami Thomas Gx Ã©crit sur la vie des codeur. AprÃ¨s plus de 700 strips il est tomber dans le monde du code pour de bon (sans jamais avoir codÃ© une ligne de sa vie). En 2004 il quitte l'Ecole des Beaux-Arts pour se concentrer sur le dessin de presse et la BD. Depuis Etienne dessine tous les jours pour CommitStrip et d'autres projets en freelance.",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/+Commitstrip"},
+        {"class": "twitter", "link": "https://twitter.com/CommitStrip_fr"},
+        {"class": "link", "link": "http://www.commitstrip.com/"}
+      ]
+    },
+    {
+      "id": "tguenoux",
+      "topspeaker": false,
+      "firstname": "Thomas",
+      "lastname": "Gx",
+      "image": "tguenoux_360x360.jpg",
+      "category": {
+        "class": "discovery",
+        "title": "Keynote"
+      },
+      "company": "CommitStrip",
+      "about": "Thomas Gx est le fondateur de CommitStrip, le blog BD bien connu des codeurs : c'est lui qui Ã©crit chaque jour depuis 2012 une strip sur la vie quotidienne des codeurs. Pionner du dÃ©veloppement des rÃ©seaux sociaux en France dÃ¨s 2006 en lanÃ§ant Cancoon, Thomas co-fonde en 2007 l'agence KRDS, premiÃ¨re agence spÃ©cialisÃ©e en social media marketing et aujourd'hui leader en Europe et en Asie. Il y occupe aujourd'hui la Direction de la Production, dirigeant un studio primÃ© et une Ã©quipe de dÃ©veloppeurs web ayant produit prÃ¨s de 2000 projets.",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/+Commitstrip"},
+        {"class": "twitter", "link": "https://twitter.com/CommitStrip_fr"},
+        {"class": "link", "link": "http://www.commitstrip.com/"}
+      ]
+    },
+    {
+      "id": "fbeaufort",
+      "topspeaker": false,
+      "firstname": "FranÃ§ois",
+      "lastname": "Beaufort",
+      "category": {
+        "class": "mobile",
+        "title": "Mobile"
+      },
+      "image": "fbeaufort_360x360.jpg",
+      "company": "Google",
+      "about": "FranÃ§ois Beaufort travaille chez Google pour l'Ã©quipe Chrome Apps",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/+FrancoisBeaufort"},
+        {"class": "github", "link": "https://github.com/beaufortfrancois"}
+      ]
+    },
+    {
+      "id": "gdorne",
+      "topspeaker": true,
+      "firstname": "Geoffrey",
+      "lastname": "Dorne",
+      "category": {
+        "class": "discovery",
+        "title": "UX"
+      },
+      "image": "gdorne_360x360.jpg",
+      "company": "Design & Human",
+      "about": "Je mâ€™appelle Geoffrey Dorne, je suis designer indÃ©pendant et fondateur de Design & Human, atelier de design Ã©thique, social et radical.",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/116718314329691158716"},
+        {"class": "linkedin", "link": "https://fr.linkedin.com/in/geoffreydorne"},
+        {"class": "twitter", "link": "http://twitter.com/geoffreydorne"},
+        {"class": "link", "link": "http://graphism.fr"},
+        {"class": "facebook", "link": "http://facebook.com/geoffreydorne"}
+      ]
+    },
+    {
+      "id": "rgoetter",
+      "topspeaker": true,
+      "firstname": "RaphaÃ«l",
+      "lastname": "Goetter",
+      "category": {
+        "class": "web",
+        "title": "CSS"
+      },
+      "image": "rgoetter_360x360.jpg",
+      "company": "AlsacrÃ©ations",
+      "about": "IntÃ©grateur du Dimanche, dompteur de CSS et tripoteur de HTML, crÃ©ateur de Alsacreations.com, auteur de quelques livres CSS, Alsacien",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/+RaphaelGoetter"},
+        {"class": "twitter", "link": "https://twitter.com/goetter"},
+        {"class": "github", "link": "https://github.com/raphaelgoetter"},
+        {"class": "link", "link": "http://www.goetter.fr/"},
+        {"class": "linkedin", "link": "https://www.linkedin.com/in/raphaelgoetter"}
+      ]
+    },
+    {
+      "id": "fcampoy",
+      "topspeaker": true,
+      "firstname": "Francesc",
+      "lastname": "Campoy Flores",
+      "ribon": {
+        "class": "google",
+        "title": "Google Developer Advocate",
+        "link": "https://www.google.com/about/careers/teams/client-facing/dev-rel/",
+        "tile_long": "Google Developer Advocate"
+      },
+      "category": {
+        "class": "cloud",
+        "title": "Go"
+      },
+      "image": "fcampoy_360x360.png",
+      "company": "Google",
+      "about": "Francesc Campoy Flores joined the Go team in 2012 as Developer Programs Engineer.<br>Since then, he has written some considerable didactic resources and traveled the world attending conferences and organizing live courses. He joined Google in 2011 as a backend software engineer working mostly in C++ and Python, but it was with Go that he rediscovered how fun programming can be.",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/+FrancescCampoyFlores"},
+        {"class": "twitter", "link": "http://twitter.com/francesc"},
+        {"class": "github", "link": "http://github.com/campoy"},
+        {"class": "link", "link": "http://blog.campoy.cat/"},
+        {"class": "linkedin", "link": "http://www.linkedin.com/in/campoy"}
+      ]
+    },
+    {
+      "id": "smoallic",
+      "topspeaker": false,
+      "firstname": "StÃ©phanie",
+      "lastname": "Moallic",
+      "category": {
+        "class": "mobile",
+        "title": "Ionic"
+      },
+      "image": "smoallic_360x360.jpg",
+      "company": "B.Sensory",
+      "about": "DÃ©veloppeuse informatique depuis plus de 15 ans, avec une prÃ©dilection pour le front-end, les trucs pour faire joli et les bonnes pratiques, dans les techno autour de Java et de la JVM voir du web. PassionnÃ©e d'informatique mais pas que...",
+      "socials": [
+        {"class": "twitter", "link": "http://twitter.com/steffy_29"},
+        {"class": "github", "link": "http://github.com/Steffy29"}
+      ]
+    },
+    {
+      "id": "aneveu",
+      "topspeaker": false,
+      "firstname": "Audrey",
+      "lastname": "Neveu",
+      "category": {
+        "class": "mobile",
+        "title": "Ionic"
+      },
+      "image": "aneveu.jpg",
+      "company": "GeoKaps",
+      "about": "Software Engineer at GeoKaps, Devoxx4Kids Hacktivist and conferences addict",
+      "socials": [
+        {"class": "twitter", "link": "http://twitter.com/Audrey_Neveu"},
+        {"class": "linkedin", "link": "https://fr.linkedin.com/in/audreyneveu"}
+      ]
+    },
+    {
+      "id": "rmenetrier",
+      "topspeaker": false,
+      "firstname": "Romain",
+      "lastname": "Menetrier",
+      "category": {
+        "class": "mobile",
+        "title": "Mobile"
+      },
+      "image": "rmenetrier.jpg",
+      "company": "Makala",
+      "about": "Orange Beacon CTO",
+      "socials": []
+    },
+    {
+      "id": "hwood",
+      "topspeaker": false,
+      "firstname": "Hugo",
+      "lastname": "Wood",
+      "category": {
+        "class": "web",
+        "title": "Api"
+      },
+      "image": "hwood_360x360.jpg",
+      "company": "Zenika",
+      "about": "DÃ©veloppeur autodidacte depuis 12 ans, professionnel depuis 3, je n'ai de cesse d'apprendre de nouvelles techniques pour amÃ©liorer mon savoir-faire. J'aime Ã©tudier les langages, de C# Ã  Haskell. Au quotidien, ce sont Java et JavaScript qui m'accaparent. Je suis consultant et formateur chez Zenika. Enfin, j'apprÃ©cie les jeux de code : vous me retrouverez par exemple sur CodinGame, et lÃ , c'est Python.",
+      "socials": [
+        {"class": "twitter", "link": "http://twitter.com/mercury_wood"},
+        {"class": "github", "link": "http://github.com/hgwood"}
+      ]
+    },
+    {
+      "id": "pcharriere",
+      "topspeaker": false,
+      "firstname": "Philippe",
+      "lastname": "Charriere",
+      "category": {
+        "class": "mobile",
+        "title": "Mobile"
+      },
+      "image": "pcharriere_360x360.jpg",
+      "company": "Centre R&D Nicolas Bourbaki",
+      "about": "Le jour: je suis un dÃ©veloppeur un peu particulier, je suis Responsable de communication pour un centre de R&D qui incube des startups (et plus particuliÃ¨rement dans le monde de l'IOT).\nLa nuit: je deviens \"Golo Developer Advocate\" (Golo, le petit langage dynamique pour la JVM qui se fait incuber depuis peu chez Eclipse), mon rÃ´le, Ã©vangÃ©liser les geeks et former Ã  Golo :)\nJâ€™ai aussi le plaisir dâ€™Ãªtre co-organisateur de la confÃ©rence Lyonnaise Mix-IT.",
+      "socials": [
+        {"class": "twitter", "link": "http://twitter.com/k33g_org"},
+        {"class": "github", "link": "http://github.com/k33g"},
+        {"class": "link", "link": "http://k33g.github.io/"}
+      ]
+    },
+    {
+      "id": "xhallade",
+      "topspeaker": false,
+      "firstname": "Xavier",
+      "lastname": "Hallade",
+      "ribon": {
+        "class": "gde",
+        "title": "Google Developer Expert",
+        "link": "https://developers.google.com/experts/",
+        "tile_long": "Google Developer Expert"
+      },
+      "category": {
+        "class": "mobile",
+        "title": "Mobile"
+      },
+      "image": "xhallade_360x360.jpg",
+      "company": "Intel Corporation",
+      "about": "Developer Evangelist Ã  Intel et Google Developer Expert pour Android. Il est en charge d'aider les dÃ©veloppeurs d'Applications et librairies Android Ã  amÃ©liorer le support des architectures x86(_64) et autres technologies dÃ©veloppÃ©es par Intel.",
+      "socials": [
+        {"class": "linkedin", "link": "https://fr.linkedin.com/in/xavierhallade"},
+        {"class": "twitter", "link": "https://twitter.com/ph0b"}
+      ]
+    },
+
+
+    {
+      "id": "mgruaz",
+      "topspeaker": false,
+      "firstname": "Manon",
+      "lastname": "Gruaz",
+      "image": "mgruaz_360x360.png",
+      "category": {
+        "class": "discovery",
+        "title": "Discovery"
+      },
+      "company": "ARCBEES",
+      "about": "Branding goddess and Design adventuress who believe in changing the world by EMotional and kick ass designs. Meaning is my Quest, Be inside a userâ€™s brain is my job.\nBorn as French, Raised as a Citizen of the world and Sarcastic by design.",
+      "socials": [
+        {"class": "twitter", "link": "http://twitter.com/manongruaz"},
+        {"class": "link", "link": "http://manongruaz.com"}
+      ]
+    },
+    {
+      "id": "fcalzada",
+      "topspeaker": false,
+      "firstname": "Franck",
+      "lastname": "Calzada",
+      "image": "fcalzada_360x360.png",
+      "category": {
+        "class": "discovery",
+        "title": "Discovery"
+      },
+      "company": "INTUITIVE ROBOTS",
+      "about": "Fondateur et dirigeant d'Intuitive Robots, une jeune startup Nantaise, dont la mission est de concevoir et rÃ©aliser des applications pour robots humanoÃ¯des, tels que les fameux robots NAO et PEPPER, le tout dernier robot d'Aldebaran Robotics. Notre but: Donner une Ã©tincelle de vie aux robots afin de les accueillir dans nos vies.",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/+Intuitive-robots"},
+        {"class": "twitter", "link": "http://twitter.com/IntuitiveRobots"},
+        {"class": "link", "link": "http://www.intuitive-robots.com"}
+      ]
+    },
+    {
+      "id": "mchartier",
+      "topspeaker": false,
+      "firstname": "Mathieu",
+      "lastname": "Chartier",
+      "image": "mchartier_360x360.jpg",
+      "category": {
+        "class": "discovery",
+        "title": "Discovery"
+      },
+      "company": "Internet-Formation",
+      "about": "Mathieu Chartier est un jeune entrepreneur et formateur web basÃ© Ã  Poitiers.\nPassionnÃ© par le webmarketing et le dÃ©veloppement web (PHP et Javascript/jQuery notamment), il s'est surtout spÃ©cialisÃ© dans le rÃ©fÃ©rencement web et les rÃ©seaux sociaux au travers de diffÃ©rents livres qu'il a rÃ©digÃ©s ces derniÃ¨res annÃ©es, notamment au cÃ´tÃ© d'Alexandra Martin (Miss SEO Girl) et d'Olivier Andrieu.",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/+MathieuChartierSEO"},
+        {"class": "twitter", "link": "https://twitter.com/Formation_web"},
+        {"class": "link", "link": "http://blog.internet-formation.fr"}
+      ]
+    },
+    {
+      "id": "afouques",
+      "topspeaker": false,
+      "firstname": "Antonin",
+      "lastname": "Fouques",
+      "image": "afouques.jpg",
+      "category": {
+        "class": "discovery",
+        "title": "Discovery"
+      },
+      "company": "Genymobile",
+      "about": "PassionnÃ© dans le dÃ©veloppement mobile au sens large, et par le systÃ¨me Android et l'ensemble de ses possibles utilisations. TrÃ¨s prÃ©sent aux confÃ©rences sur Paris approchant de prÃ¨s ou de loin ce domaine.",
+      "socials": [
+        {"class": "twitter", "link": "https://twitter.com/CmoaToto"},
+        {"class": "google-plus", "link": "https://plus.google.com/+AntoninFouques"}
+      ]
+    },
+    {
+      "id": "tleriche",
+      "topspeaker": false,
+      "firstname": "Thierry",
+      "lastname": "Leriche",
+      "image": "tleriche_360x360.jpg",
+      "category": {
+        "class": "discovery",
+        "title": "Discovery"
+      },
+      "company": "ICAUDA",
+      "about": "Je suis consultant freelance avec une quinzaine d'annÃ©es d'expÃ©rience. Jâ€™interviens principalement sur des projets Web JEE Agile sur de lâ€™architecture, du dÃ©veloppement et du team lead. \n\nJe mâ€™investis dans la formation des plus jeunes mais aussi de mes collÃ¨gues et amis. Je suis dâ€™ailleurs professeur de GÃ©nie Logiciel Ã  l'ESIEA et coach sur des projets de formation humaine. \n\nQuand j'ai un peu de temps, entre deux biberons, je suis aussi rÃ©dacteur (cf. mes articles, blogs, mÃ©mentos, etc.) pour la communautÃ© Developpez.com et le magazine Programmez. Et quand j'ai vraiment du temps, vous pouvez m'entendre en tant qu'orateur (ConfÃ©rences, JUG, Podcast, etc.)",
+      "socials": [
+        {"class": "twitter", "link": "https://twitter.com/thierryleriche"},
+        {"class": "linkedin", "link": "https://fr.linkedin.com/in/thierryler"}
+      ]
+    },
+    {
+      "id": "btalmard",
+      "topspeaker": false,
+      "firstname": "Benjamin",
+      "lastname": "Talmard",
+      "image": "btalmard_360x360.jpg",
+      "category": {
+        "class": "cloud",
+        "title": "Cloud"
+      },
+      "company": "Microsoft France",
+      "about": "En tant que conseiller technologique sur Microsoft Azure dans l'entitÃ© Â« Developers Experience & Evangelism Â» de Microsoft France, Benjamin est en charge de l'Ã©vangÃ©lisation de la stack Web et Cloud de Microsoft. Les architectures Web sur Microsoft Azure et le Framework ASP.NET 5 sont donc les sujets sur lequel il passe son temps en ce moment.",
+      "socials": [
+        {"class": "twitter", "link": "https://twitter.com/benjiiim"},
+        {"class": "github", "link": "https://github.com/Benjiiim"}
+      ]
+    },
+    {
+      "id": "dgageot",
+      "topspeaker": false,
+      "firstname": "David",
+      "lastname": "Gageot",
+      "ribon": {
+        "class": "gde",
+        "title": "Google Developer Expert",
+        "link": "https://developers.google.com/experts/",
+        "tile_long": "Google Developer Expert"
+      },
+      "image": "dgageot_360x360.jpg",
+      "category": {
+        "class": "cloud",
+        "title": "Cloud"
+      },
+      "company": "",
+      "about": "David Gageot est dÃ©veloppeur indÃ©pendant.<br>Sa passion ? L'Ã©criture de logiciels pointus mais simples.<br>Il participe Ã  des projets Java depuis 1998, comme responsable R&D chez l'Ã©diteur Adesoft, comme expert Java et Scrum Master.<br>Depuis 2010, il a pris le leadership sur le projet open-source Infinitest.",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/+DavidGageot/"},
+        {"class": "twitter", "link": "https://twitter.com/dgageot"},
+        {"class": "github", "link": "https://github.com/dgageot"},
+        {"class": "link", "link": "http://blog.javabien.net"}
+      ]
+    },
+    {
+      "id": "lchampenois",
+      "topspeaker": false,
+      "firstname": "Ludovic",
+      "lastname": "Champenois",
+      "image": "lchampenois_360x360.jpg",
+      "category": {
+        "class": "cloud",
+        "title": "Cloud"
+      },
+      "company": "Google",
+      "about": "Ludo is a Tech Lead and Manager in the Google Cloud platform, leading the runtimes (Java, Python, GO, PHP, Node.js) and the Developer SDK.",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/+LudovicChampenois/"},
+        {"class": "twitter", "link": "https://twitter.com/ludoch"},
+        {"class": "github", "link": "https://github.com/ludoch"}
+      ]
+    },
+    {
+      "id": "blegras",
+      "topspeaker": false,
+      "firstname": "Bastien",
+      "lastname": "Legras",
+      "image": "blegras_360x360.jpg",
+      "category": {
+        "class": "cloud",
+        "title": "Cloud"
+      },
+      "company": "Google",
+      "about": "Bastien Legras a rejoint Google for Work en 2010 et assume aujourd'hui la responsabilitÃ© technique de l'offre Google Cloud Platform (IaaS/PaaS) en Europe du Sud.<br>SpÃ©cialiste des architectures Cloud, il accompagne les clients Google for Work de toutes tailles pour concevoir des solutions innovantes, en exploitant les nouvelles technologies et architectures Cloud comme le BigData, les Mobiles Backend, le Real Time Bidding, ...",
+      "socials": [
+        {"class": "twitter", "link": "https://twitter.com/bastienlegras"},
+        {"class": "linkedin", "link": "https://fr.linkedin.com/pub/bastien-legras/a/957/a87"}
+      ]
+    },
+    {
+      "id": "arichard",
+      "topspeaker": false,
+      "firstname": "Antoine",
+      "lastname": "Richard",
+      "image": "arichard_360x360.jpg",
+      "category": {
+        "class": "cloud",
+        "title": "Cloud"
+      },
+      "company": "Restlet",
+      "about": "Antoine est \"Code Rider\" chez <a href='http://restlet.com/' target='_blank'>Restlet</a> oÃ¹ il implÃ©mente des trucs sympas sur APISpark, la plateforme dâ€™API as a Service. Il dÃ©veloppe des applications web de maniÃ¨re agile depuis plus de 10 ans en Java, Javascript et Ruby. Depuis quelques annÃ©es il prend plaisir Ã  partager ses expÃ©riences dans divers rassemblements de dÃ©veloppeurs.",
+      "socials": [
+        {"class": "twitter", "link": "https://twitter.com/richard_antoine"},
+        {"class": "github", "link": "https://github.com/antoine-richard"}
+      ]
+    },
+    {
+      "id": "mboillod",
+      "topspeaker": false,
+      "firstname": "Manuel",
+      "lastname": "Boillod",
+      "image": "mboillod_360x360.jpg",
+      "category": {
+        "class": "cloud",
+        "title": "Cloud"
+      },
+      "company": "Restlet",
+      "about": "Manuel est Code Artist chez <a href='http://restlet.com/' target='_blank'>Restlet</a>. Il aime par dessus tout le beau code et tout ce qui Ã  attrait aux dÃ©ploiement continu. pratiques quâ€™il applique lors du dÃ©veloppement de la plateforme dâ€™hÃ©bergement dâ€™API REST et dâ€™API management â€œAPISparkâ€? de Restlet. Manuel est Ã©galement JUG leader Ã  Nantes (<a href='http://www.nantesjug.org/' target='_blank'>nantesjug.org</a>) et aime Ã©changer avec la communautÃ© sur les diffÃ©rentes solutions techniques.",
+      "socials": [
+        {"class": "twitter", "link": "https://twitter.com/mboillod"},
+        {"class": "linkedin", "link": "https://fr.linkedin.com/in/manuelboillod"}
+      ]
+    },
+    {
+      "id": "fxrousselot",
+      "topspeaker": false,
+      "firstname": "FranÃ§ois-Xavier",
+      "lastname": "Rousselot",
+      "image": "fxrousselot.jpg",
+      "category": {
+        "class": "cloud",
+        "title": "Cloud"
+      },
+      "company": "",
+      "about": "FranÃ§ois-Xavier Rousselot est Data Innovation and Machine Learning consultant.  He leverages his 4 years of experience in managing Machine Learning and Datascience projects to help executives find the right data opportunities for their international companies. Having both a strong business and technical experience, he has always been able to detect new opportunities, design and successfully implement solutions with the latest technologies.",
+      "socials": [
+        {"class": "linkedin", "link": "https://fr.linkedin.com/in/francoisxavierrousselot"}
+      ]
+    },
+
+    {
+      "id": "mlux",
+      "topspeaker": false,
+      "firstname": "Matthieu",
+      "lastname": "Lux",
+      "image": "mlux_360x360.jpg",
+      "category": {
+        "class": "web",
+        "title": "Web"
+      },
+      "company": "Zenika",
+      "about": "DÃ©veloppeur, formateur et responsable de l'offre Web au sein de l'agence lyonnaise de Zenika.\n\nAprÃ¨s une solide expÃ©rience dans le monde Java, je suis focalisÃ© aujourd'hui sur le monde du Web et du JavaScript. Plus prÃ©cisÃ©ment, mes technologies de prÃ©dilection sont actuellement Angular, Gulp, Yeoman, Node et React.\n\nJ'ai Ã©galement donnÃ© un certain nombre de talks sur Angular au MixIt, mais aussi au DevoxxFR et mÃªme au <a href='https://www.youtube.com/watch?v=Mk2WwSxK218' target='_blank'>[ngEurope]</a>\n\nJ'organise Ã©galement le <a href='http://www.meetup.com/LyonJS/' target='_blank'>LyonJS</a>, le meetup JavaScript de Lyon.\n\nJ'ai enfin crÃ©e un gÃ©nÃ©rateur Yeoman <a href='https://github.com/Swiip/generator-gulp-angular' target='_blank'>[generator-gulp-angular]</a> qui propose le dÃ©marrage de projets basÃ©es sur les technologies Angular & Gulp.",
+      "socials": [
+        {"class": "twitter", "link": "https://twitter.com/swiip"},
+        {"class": "github", "link": "https://github.com/swiip"}
+      ]
+    },
+    {
+      "id": "sdutton",
+      "topspeaker": false,
+      "firstname": "Sam",
+      "lastname": "Dutton",
+      "image": "sdutton_360x360.jpg",
+      "category": {
+        "class": "web",
+        "title": "Web"
+      },
+      "ribon": {
+        "class": "google",
+        "title": "Google Developer Advocate",
+        "link": "https://www.google.com/about/careers/teams/client-facing/dev-rel/",
+        "tile_long": "Google Developer Advocate"
+      },
+      "company": "Google",
+      "about": "Sam Dutton <a href='https://twitter.com/sw12' target='_blank'>@sw12</a> is a Developer Advocate for Google. He publishes the free audio/video/realtime newsletter <a href='http://www.medianews.me' target='_blank'>http://www.medianews.me</a> and maintains <a href='http://www.simpl.info' target='_blank'>http://www.simpl.info</a>, which provides simplest possible examples of HTML, CSS and JavaScript.",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/+samdutton"},
+        {"class": "twitter", "link": "https://twitter.com/sw12"},
+        {"class": "github", "link": "https://github.com/samdutton"},
+        {"class": "link", "link": "http://www.samdutton.com/"}
+      ]
+    },
+    {
+      "id": "emargraff",
+      "topspeaker": false,
+      "firstname": "Etienne",
+      "lastname": "Margraff",
+      "image": "emargraff.jpg",
+      "category": {
+        "class": "web",
+        "title": "Web"
+      },
+      "company": "Microsoft",
+      "about": "Je fais du dev depuis plusieurs annÃ©es et je suis un geek passionnÃ© par la techno. ;-)\nJe m'amuse entre autres avec HTML5, JavaScript, CSS, Visual Studio, Cordova et la mobilitÃ© en gÃ©nÃ©ral. \nJ'ai co-crÃ©Ã© de lâ€™outil open-source <a href='http://www.vorlonjs.io' target='_blank'>Vorlon.js</a>, un outil cross-plateformes pour dÃ©bugger le web sur mobile.\n\nJe touche aussi un peu Ã  la 3D avec une contribution pour <a href='http://www.babylonjs.com' target='_blank'>BabylonJS</a>. \n\nJe suis speaker dans plusieurs Ã©vÃ©nÃ©ments comme les TechDays, la DroidCon, des meetups, la Kiwi Party, etc.",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/+EtienneMargraff"},
+        {"class": "twitter", "link": "https://twitter.com/meulta"},
+        {"class": "github", "link": "https://github.com/meulta"},
+        {"class": "link", "link": "http://blogs.msdn.com/emargraff"}
+      ]
+    },
+    {
+      "id": "mbynens",
+      "topspeaker": false,
+      "firstname": "Mathias",
+      "lastname": "Bynens",
+      "image": "mbynens_360x360.jpg",
+      "category": {
+        "class": "web",
+        "title": "Web"
+      },
+      "company": "Opera Software",
+      "about": "Mathias is a Belgian web standards enthusiast. He likes HTML, CSS, JavaScript, Unicode, performance, and security. At Opera Software heâ€™s a member of the Developer Relations team.",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/u/0/+mathiasbynens/posts"},
+        {"class": "twitter", "link": "https://twitter.com/mathias"},
+        {"class": "github", "link": "https://github.com/mathiasbynens"},
+        {"class": "link", "link": "https://mathiasbynens.be/"}
+      ]
+    },
+    {
+      "id": "mancelin",
+      "topspeaker": false,
+      "firstname": "Mathieu",
+      "lastname": "Ancelin",
+      "image": "mancelin_360x360.jpg",
+      "category": {
+        "class": "web",
+        "title": "Web"
+      },
+      "company": "SERLI",
+      "about": "Mathieu ANCELIN est dÃ©veloppeur Ã  SERLI, spÃ©cialisÃ© dans la programmation web et les frameworks web modernes avec un bon background autour des technologies Java EE. Mathieu est impliquÃ© dans plusieurs projets open-source comme GlassFish et Weld, et en lead Ã©galement quelques un comme ReactiveCouchbase et Weld-OSGi; Il est membre de l'expert group de la JSR-346, de la JSR 371 et fait partie de l'Ã©quipe du Poitou-Charentes JUG.",
+      "socials": [
+        {"class": "twitter", "link": "https://twitter.com/TrevorReznik"},
+        {"class": "github", "link": "https://github.com/mathieuancelin"},
+        {"class": "link", "link": "http://reactivecouchbase.org/"}
+      ]
+    },
+    {
+      "id": "tchatel",
+      "topspeaker": false,
+      "firstname": "Thierry",
+      "lastname": "Chatel",
+      "image": "tchatel_360x360.jpg",
+      "category": {
+        "class": "web",
+        "title": "Web"
+      },
+      "ribon": {
+        "class": "gde",
+        "title": "Google Developer Expert",
+        "link": "https://developers.google.com/experts/",
+        "tile_long": "Google Developer Expert"
+      },
+      "company": "",
+      "about": "Je suis consultant et formateur, passionnÃ© par l'achitecture des applications web, et spÃ©cialiste de JavaScript et du framework AngularJS.\nEt Google Developer Expert sur AngularJS depuis 2014.",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/u/0/+ThierryChatel"},
+        {"class": "twitter", "link": "https://twitter.com/ThierryChatel"},
+        {"class": "github", "link": "https://github.com/tchatel"}
+      ]
+    },
+    {
+      "id": "amoussine-pouchkine",
+      "topspeaker": false,
+      "firstname": "Alexis",
+      "lastname": "Moussine-pouchkine",
+      "image": "amoussine-pouchkine_360x360.jpg",
+      "category": {
+        "class": "cloud",
+        "title": "Cloud"
+      },
+      "company": "Google",
+      "about": "Google Developer Relations",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/u/0/+AlexisMP"},
+        {"class": "twitter", "link": "https://twitter.com/alexismp"},
+        {"class": "link", "link": "http://cloud.google.com"}
+      ]
+    },
+    {
+      "id": "hgonzalez",
+      "topspeaker": false,
+      "firstname": "Horacio",
+      "lastname": "Gonzalez",
+      "image": "hgonzalez_360x360.jpg",
+      "category": {
+        "class": "web",
+        "title": "Web"
+      },
+      "company": "Cityzen Data",
+      "about": "Spaniard lost in Brittany, unconformist coder, Java craftsman, dreamer and all-around geek.\n Works at <a href='https://twitter.com/CityzenData' target='_blank'>@CityzenData</a>. Founder & leader of <a href='https://twitter.com/FinistJUG' target='_blank'>@FinistJUG</a> & <a href='https://twitter.com/search?q=@FinistGDG' target='_blank'>@FinistGDG</a>",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/u/0/100578619938900089909"},
+        {"class": "twitter", "link": "https://twitter.com/LostInBrittany"}
+      ]
+    },
+    {
+      "id": "wchegham",
+      "topspeaker": false,
+      "firstname": "Wassim",
+      "lastname": "Chegham",
+      "image": "wchegham_360x360.jpg",
+      "category": {
+        "class": "web",
+        "title": "Web"
+      },
+      "ribon": {
+        "class": "gde",
+        "title": "Google Developer Expert",
+        "link": "https://developers.google.com/experts/",
+        "tile_long": "Google Developer Expert"
+      },
+      "company": "SII IDF",
+      "about": "Front-stack JavaScript Consultant <a href='https://twitter.com/SII_IDF' target='_blank'>@SII_IDF</a> â€¢ Google Developer Expert for AngularJS â€¢ Author â€¢ Speaker â€¢ Trainer â€¢ Hacker â€¢ Photographer",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/+WassimCheghamJavaScript/"},
+        {"class": "twitter", "link": "https:/twitter.com/manekinekko"},
+        {"class": "github", "link": "https:/github.com/manekinekko"},
+        {"class": "link", "link": "http://wassimchegham.com"}
+      ]
+    },
+    {
+      "id": "jpgouigoux",
+      "topspeaker": false,
+      "firstname": "Jean-Philippe",
+      "lastname": "Gouigoux",
+      "image": "jpgouigoux.jpg",
+      "category": {
+        "class": "cloud",
+        "title": "Cloud"
+      },
+      "company": "MVP",
+      "about": "JP Gouigoux est CTO d'un Ã©diteur de logiciel, pour lequel il organise une Ã©quipe de 50 personnes autour d'une refonte de progiciel en architecture microservices. Auteur de quelques livres, blogueur, MVP depuis 4 ans dans la spÃ©cialitÃ© IntÃ©gration, il intervient rÃ©guliÃ¨rement en universitÃ©s, Ã©coles ou confÃ©rences. Sa spÃ©cialitÃ© est l'urbanisation des systÃ¨mes logiciels, au carrefour de l'architecture et de l'agilitÃ©. Lorsqu'il n'est pas derriÃ¨re un clavier, JP est le plus souvent sur un vÃ©lo, en train de bricoler ou de faire du Lego.",
+      "socials": [
+        {"class": "twitter", "link": "http://twitter.com/jpgouigoux"},
+        {"class": "github", "link": "http://github.com/jp-gouigoux"},
+        {"class": "link", "link": "http://gouigoux.com/blog-fr"}
+      ]
+    },
+    {
+      "id": "fkelly",
+      "topspeaker": false,
+      "firstname": "Frank",
+      "lastname": "Kelly",
+      "image": "fkelly.jpg",
+      "category": {
+        "class": "cloud",
+        "title": "Cloud"
+      },
+      "company": "",
+      "about": "Frank Kelly is a data scientist at Analytics SEO in London.  With a degree from the University of Cambridge, he co-founded MathSight Ltd where he was responsible for the machine learning pipelines and data science.",
+      "socials": [
+        {"class": "linkedin", "link": "https://www.linkedin.com/profile/view?id=16668039"}
+      ]
+    },
+    {
+      "id": "acateland",
+      "topspeaker": false,
+      "firstname": "Axel",
+      "lastname": "Cateland",
+      "image": "acateland.jpg",
+      "category": {
+        "class": "web",
+        "title": "Web"
+      },
+      "company": "SantÃ©clair",
+      "about": "Ã‰lectrotechnicien de formation Axel s'engage Ã  17 ans dans la Marine Nationale, s'Ã©chappe de son sous-marin nuclÃ©aire 3 ans plus tard, redÃ©couvre le dÃ©veloppement Ã  24 ans, dÃ©veloppeur back (JAVA, PHP) pendant quelques annÃ©es il s'enfuit cette fois dÃ©finitivement de l'armÃ©e en 2012 pour se lancer dans une carriÃ¨re de dÃ©veloppeur front. Sa seule constance finalement c'est de savoir apprÃ©cier une bonne biÃ¨re.",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/+axelcateland"},
+        {"class": "twitter", "link": "https://twitter.com/catelandaxel"}
+      ]
+    },
+    {
+      "id": "dgirard",
+      "topspeaker": false,
+      "firstname": "Didier",
+      "lastname": "Girard",
+      "category": {
+        "class": "cloud",
+        "title": "BigQuery"
+      },
+      "ribon": {
+        "class": "gde",
+        "title": "Google Developer Expert",
+        "link": "https://developers.google.com/experts/",
+        "tile_long": "Google Developer Expert"
+      },
+      "image": "dgirard_360x360.jpg",
+      "company": "Sfeir",
+      "about": "Directeur des OpÃ©rations de SFEIR. Expert sur les technologies Cloud de Google. Bonne connaissance de Java. A fait une thÃ¨se sur ce que l'on appelle maintenant le machine learning.",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/+DidierGirard"},
+        {"class": "twitter", "link": "https://twitter.com/@DidierGirard"}
+      ]
+    },
+    {
+      "id": "cbossard",
+      "topspeaker": false,
+      "firstname": "CÃ©cilia",
+      "lastname": "Bossard",
+      "image": "cbossard.png",
+      "category": {
+        "class": "discovery",
+        "title": "Discovery"
+      },
+      "company": "",
+      "about": "ai un but : aider les Ã©quipes Ã  produire des logiciels utiles aux utilisateurs finaux. Pour cela, je les accompagne en intÃ©grant les Ã©quipes de dÃ©veloppement ou en les assistant dans leur transition agile. ImpliquÃ©e dans la communautÃ© agile nantaise, je participe Ã©galement Ã  l'organisation de l'Agile Tour de Nantes. Femme dÃ©veloppeuse, je suis Ã©galement co-fondatrice du groupe <a href='http://nantes-wit.fr/' target='_blank'>Women In Technology Ã  Nantes</a>, dont le but est de promouvoir les femmes dans la technique. Dans ce cadre, je participe Ã©galement aux initiations Ã  la programmation Ã  destination des enfants avec des initiatives telles que les <a href='http://www.devoxx4kids.org/france/evenements/devoxx4kids-nantes/' target='_blank'>Devoxx4Kids</a> ou les <a href='https://nantescodinggouters.wordpress.com/' target='_blank'>Coding GoÃ»ters Ã  Nantes</a>.",
+      "socials": [
+        {"class": "twitter", "link": "https://twitter.com/ceciliaBossard"},
+        {"class": "link", "link": "https://javagile.wordpress.com/"}
+      ]
+    },
+    {
+      "id": "jpalies",
+      "topspeaker": false,
+      "firstname": "Jean",
+      "lastname": "PaliÃ¨s",
+      "image": "jpalies.jpg",
+      "category": {
+        "class": "discovery",
+        "title": "Discovery"
+      },
+      "company": "",
+      "about": "DÃ©veloppeur Java, Angular JS le jour, bidouilleur la nuit. AprÃ¨s quelques annÃ©es de bricolage et dÃ©couvertes, j'ai repris les bases de la programmation il y a 15 ans avec Scratch, que je rÃ©utilise avec bonheur maintenant dans les <a href='http://www.devoxx4kids.org/france/evenements/devoxx4kids-nantes/' target='_blank'>Devoxx4Kids</a> ou les <a href='https://nantescodinggouters.wordpress.com/' target='_blank'>Coding GoÃ»ters Ã  Nantes</a>, dont je suis cofondateur. Je suis aussi membre et confondateur des <a href='http://nantes-wit.fr/' target='_blank'>Women In Technology Ã  Nantes</a>.",
+      "socials": [
+        {"class": "google-plus", "link": "https://plus.google.com/u/0/106552014287288043542/"},
+        {"class": "twitter", "link": "https://twitter.com/jpalies"},
+        {"class": "github", "link": "https://github.com/JeanPalies"},
+        {"class": "link", "link": "https://javagile.wordpress.com/"}
+      ]
+    }
+  ],
+  "categories": {
+    "mobile": "Mobile et Objets ConnectÃ©s"
+  , "web": "Web"
+  , "cloud": "Cloud et Big Data"
+  , "discovery": "DÃ©couverte"
+  , "codelab-web": "CodeLab Web"
+  , "codelab-cloud": "CodeLab Cloud"
+  , "formation": "Formation"
+  },
+  "hours": {
+    "h01": {
+      "id": "h01",
+      "hourStart": "07",
+      "minStart": "30",
+      "hourEnd": "08",
+      "minEnd": "30"
+    },
+    "h02": {
+      "id": "h02",
+      "hourStart": "08",
+      "minStart": "30",
+      "hourEnd": "09",
+      "minEnd": "30"
+    },
+    "h03": {
+      "id": "h03",
+      "hourStart": "09",
+      "minStart": "40",
+      "hourEnd": "10",
+      "minEnd": "30"
+    },
+    "h04": {
+      "id": "h04",
+      "hourStart": "10",
+      "minStart": "40",
+      "hourEnd": "11",
+      "minEnd": "30"
+    },
+    "h05": {
+      "id": "h05",
+      "hourStart": "11",
+      "minStart": "40",
+      "hourEnd": "12",
+      "minEnd": "30"
+    },
+    "h06": {
+      "id": "h06",
+      "hourStart": "12",
+      "minStart": "30",
+      "hourEnd": "14",
+      "minEnd": "00"
+    },
+    "h07": {
+      "id": "h07",
+      "hourStart": "14",
+      "minStart": "00",
+      "hourEnd": "14",
+      "minEnd": "50"
+    },
+    "h08": {
+      "id": "h08",
+      "hourStart": "15",
+      "minStart": "00",
+      "hourEnd": "15",
+      "minEnd": "50"
+    },
+    "h09": {
+      "id": "h09",
+      "hourStart": "15",
+      "minStart": "50",
+      "hourEnd": "16",
+      "minEnd": "40"
+    },
+    "h10": {
+      "id": "h10",
+      "hourStart": "16",
+      "minStart": "40",
+      "hourEnd": "17",
+      "minEnd": "30"
+    },
+    "h11": {
+      "id": "h11",
+      "hourStart": "17",
+      "minStart": "40",
+      "hourEnd": "18",
+      "minEnd": "30"
+    },
+    "h12": {
+      "id": "h12",
+      "hourStart": "18",
+      "minStart": "30",
+      "hourEnd": "22",
+      "minEnd": "00"
+    },
+    "h13": {
+      "id": "h13",
+      "hourStart": "09",
+      "minStart": "40",
+      "hourEnd": "11",
+      "minEnd": "30"
+    },
+    "h14": {
+      "id": "h14",
+      "hourStart": "14",
+      "minStart": "00",
+      "hourEnd": "15",
+      "minEnd": "50"
+    },
+    "h15": {
+      "id": "h15",
+      "hourStart": "16",
+      "minStart": "40",
+      "hourEnd": "18",
+      "minEnd": "30"
+    },
+    "h16": {
+      "id": "h16",
+      "hourStart": "13",
+      "minStart": "30",
+      "hourEnd": "17",
+      "minEnd": "00"
+    }
+  },
+  "sessions": [
+    {
+      "id": "s3",
+      "title": "Application testing and Continuous Integration with Genymotion",
+      "confRoom": "Salle Bretagne",
+      "desc": "",
+      "type": "discovery",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h11",
+      "video": "//www.youtube.com/embed/LQ3blXF1mOs",
+      "slides": "",
+      "speakers": [
+        "afouques"
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "Hand's on Web Components with Polymer 1.0",
+      "confRoom": "Les machines",
+      "desc": "The W3C has been working on a Web Components standard for almost three years, but it is still a work in progress. But polyfills like allows current developers to use Web Components today, and incorporate to their apps widgets from any library of web components. <br><br>The best known of these libraries is Google's Polymer. In Google IO 2015 conference, Google has at last released the long awaited version 1.0 of Polymer, making it even faster, more stable and at least suitable for \"serious\" applications. In this lab you will use Polymer 1.0 with Material Design Polymer Elements to design and develop a web application using web components.<br><br>You will learn to use the following technologies:<ul><li> Polymer and Web Components (for mobile and desktop)</li><li> The Paper Elements for Polymer (material design)</li></ul><br><br>Mandatory Installs prior to lab:<ul><li> npm </li><li> bower</li><li> your favorite HTML/CSS/JS IDE (I suggest Sublime Text)</li></ul>",
+      "type": "codelab-web",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h13",
+      "slides": "",
+      "speakers": [
+        "hgonzalez",
+        "aneveu"
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Introduction Ã  la technologie RealSense",
+      "confRoom": "Salle Graslin",
+      "desc": "Les technologies IntelÂ® RealSense sont basÃ©es sur des camÃ©ras 3D temps-rÃ©el. Ces camÃ©ras dÃ©jÃ  intÃ©grÃ©es Ã  certain PCs et convertibles Windows et bientÃ´t sur tablettes et phablettes Android.<br><br>DÃ©couvrez ce que lâ€™on peut faire avec  RealSense, et comment dÃ©velopper de nouvelles expÃ©riences immersives, naturelles ou simplement fun Ã  lâ€™aide du SDK.",
+      "type": "discovery",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h03",
+      "video": "//www.youtube.com/embed/bdBNZwxZ49o",
+      "slides": "",
+      "speakers": [
+        "xhallade"
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "L'innovation technologique n'existe pas.",
+      "confRoom": "Salle Titan",
+      "desc": "L'innovation doit Ãªtre sociale avant d'Ãªtre technologique. Comment regarder les nouvelles technologies sous un angle utile, social, humain et engagÃ© ? Un aperÃ§u du paysage technologique contemporain sous le regard d'un designer",
+      "type": "discovery",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h07",
+      "video": "//www.youtube.com/embed/aS-cSoBiA0Y",
+      "slides": "",
+      "speakers": [
+        "gdorne"
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "Prise en main de Kubernetes",
+      "confRoom": "Hangar",
+      "desc": "Mise en oeuvre d'un cluster Kubernetes pour dÃ©ployer une architecture comprenant une stack MySQL, PHP et Memcache.<br>Rolling updates et redimensionnement de replication controlers. Le dÃ©ploiement se fera sur Google Container Engine (GKE).",
+      "type": "codelab-cloud",
+      "difficulty": 202,
+      "all": false,
+      "lang": "fr",
+      "hour": "h14",
+      "slides": "",
+      "speakers": [
+        "amoussine-pouchkine"
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "Sleep easy knowing everything's OK with Google Cloud Operations",
+      "confRoom": "Salle Graslin",
+      "desc": "You know know your applications and infrastructure and running right? Right? Gaining insight into the health and performance of your applications should be easy, and we will show you just how easy it can be!<br>70% of the time and resources are spent today on infrastructure and application maintenance. And again, Iâ€™m sure youâ€™ve all seen these stats before, but the astounding thing is that theyâ€™ve remained this way for a long time. So the opportunity we see in building our solution is how do we make a fundamental shift in the ratio between â€œmaintainâ€? and â€œinvestâ€?.<br>I want to show you what we are doing, and hopefully help you understand how you can make a difference with us.<br>Agility: Pivot to a different direction as needed. Scale fast and smoothly.<br>Speed: Execution. Moving fast.<br>Efficiency: Use resources and time wisely.",
+      "type": "cloud",
+      "difficulty": 202,
+      "all": false,
+      "lang": "fr",
+      "hour": "h11",
+      "video": "//www.youtube.com/embed/7ok4l4Ndmb8",
+      "slides": "",
+      "speakers": [
+        "blegras"
+      ]
+    },
+    {
+      "id": "s9",
+      "title": "Eddystone, un format ouvert pour les beacons et les objets connectÃ©s",
+      "confRoom": "Salle Bellem",
+      "desc": "Eddystone, annoncÃ© par Google le 14 juillet 2015, propose un format plus ouvert et plus riche que iBeacon, et supportÃ© par prÃ¨s de 70% des tÃ©lÃ©phones portables Ã  travers le monde. Nous allons dÃ©crypter cette technologie, et voir comment interagir depuis un tÃ©lÃ©phone Android ou iOS, avec ou sans application.",
+      "type": "mobile",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h10",
+      "video": "//www.youtube.com/embed/zbCD23X15g0",
+      "slides": "",
+      "speakers": [
+        "rmenetrier"
+      ]
+    },
+    {
+      "id": "s10",
+      "title": "React + Redux : les mains dans le cambouis.",
+      "confRoom": "Les machines",
+      "desc": "Ce workshop se propose de rÃ©aliser une application de chat avec React, Redux et Firebase. De la crÃ©ation des composants React Ã  la consommation de webservices en passant par l'implÃ©mentation de l'architecture Flux via Redux, cet exercice sera Ã©galement l'occasion de dÃ©couvrir les outils de devs construits autour de Redux : rechargement de composants Ã  chaud, outil d'enregistrement des actions utilisateurs, replay des actions utilisateur, etc...<br><br>Une liste de prÃ©-requis sera disponible sur le repos https://github.com/cateland/nantes-devfest-2015-react-redux, celui-ci seras rendu public deux semaines avant le workshop pour vous donner le temps de prÃ©parer vos machines.",
+      "type": "codelab-web",
+      "difficulty": 202,
+      "all": false,
+      "lang": "fr",
+      "hour": "h15",
+      "slides": "",
+      "speakers": [
+        "acateland"
+      ]
+    },
+    {
+      "id": "s11",
+      "title": "Management en couleur avec DISC",
+      "confRoom": "Salle Graslin",
+      "desc": "Chaque personne est unique. Chacun de nous voit le monde Ã  sa faÃ§on. Chacun communique et se comporte dâ€™une maniÃ¨re qui lui est propre. Ce constat est unanimement admis. Pourtant, nous rÃ©pÃ©tons tous la mÃªme erreur de communication : nous parlons aux autres comme on aimerait quâ€™ils nous parlent. Cette erreur est essentielle. Il faut parler aux autres comme ils aimeraient quâ€™on leur parle. Une des rÃ¨gles dâ€™or est quâ€™il faut sâ€™adapter Ã  son interlocuteur. Mais, pour cela, encore faut-il connaitre son profilâ€¦<br><br>DISC est un outil d'Ã©valuation (colorÃ©) utilisÃ© pour amÃ©liorer la productivitÃ©, le travail d'Ã©quipe et la communication. DISC est l'acronyme de Dominant (rouge), Influent (jaune), Stable (vert) et Consciencieux (bleu). DISC mesure des styles de communication et de comportement. Ce nâ€™est PAS un test de QI. Ã‡a ne mesure PAS lâ€™intelligence, les aptitudes, la santÃ© mentale, les valeurs, etc. Les profils DISC dÃ©crivent les comportements humains dans de nombreuses situations, par exemple en rÃ©ponse au stress, aux dÃ©fis, aux challenges, aux crises, aux procÃ©dures, etc.<br><br>En connaissant bien son profil et celui de ses interlocuteurs, on peut communiquer de maniÃ¨re plus efficace, Ã  lâ€™Ã©crit comme Ã  lâ€™oral. Cela permet de distribuer efficacement les tÃ¢ches selon leurs types, les objectifs, les besoins, les contraintes, etc. Cela permet Ã©galement de constituer une Ã©quipe en choisissant ses membres en fonction du contexte.",
+      "type": "discovery",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h10",
+      "video": "//www.youtube.com/embed/uuJo2ibsZf4",
+      "slides": "",
+      "speakers": [
+        "tleriche"
+      ]
+    },
+    {
+      "id": "s12",
+      "title": "OMG!, Terminator sera codÃ© en JavaScript!",
+      "confRoom": "Salle Bellem",
+      "desc": "Tout le monde est persuadÃ© que lâ€™ancÃªtre de SkyNet, est le Turk (cf. The Sarah Connor Chronicles) â€¦ Eh bien non!, Câ€™est B.O.B.! Un robot Ã  roulette (le T-0). Et je vais vous expliquer comment tout Ã  commencÃ©: en devenant un â€œmaker du dimancheâ€?!.<br><br>La genÃ¨se de BOB (*):<br><br>*: Bot Operative Behaviour<br><br><ul><li> un thermomÃ¨tre Ã  leds avec un Arduino et Johnny-Five</li><li> SAM (jâ€™aime bien donner des petits noms Ã  mes jouets), qui va rendre le Nest obsolÃ¨te, avec un Raspberry et une GrovePi qui va discuter avec le monde grÃ¢ce Ã  MQTT</li><li> BOB, le T-0, avec un Raspberry et une GoPiGo â€¦ Et bien sÃ»r BOB et SAM discuteront entre eux</li></ul><br><br>Et tout Ã§a propulsÃ© par du JavaScript! <br>Il y aura donc de la dÃ©mo live avec du hardware.<br>Je vous parlerais aussi de lâ€™Ã©cosystÃ¨me â€œhardware + javascript\"<br><br>Cette prÃ©sentation a plusieurs objectifs:<br><br>- montrer que JavaScript peut servir Ã  autre chose que du web<br>- montrer qu'il est facile de devenir un \"maker\" du dimanche mÃªme si l'on n'y connait pas grand chose<br>- faire une petite introduction Ã  l'IOT<br><br>d'un point de vue dÃ©mo, ce ne sera pas forcÃ©ment du code mais de l'exÃ©cution de programmes avec impact sur des composants Ã©lectronique (j'aurais donc une petite camÃ©ra, type webcam)",
+      "type": "mobile",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h11",
+      "video": "//www.youtube.com/embed/zd3j6yPLmdY",
+      "slides": "",
+      "speakers": [
+        "pcharriere"
+      ]
+    },
+    {
+      "id": "s13",
+      "title": "Usages des robots humanoÃ¯des dans les espaces grand publics, et connectÃ©s Ã  notre monde numÃ©rique",
+      "confRoom": "Salle Bellem",
+      "desc": "Les nouveaux robots humanoÃ¯des ont maintenant des capacitÃ©s qui permettent d'interagir naturellement et intuitivement avec leur environnement.<br>Ainsi, ils peuvent Ãªtre utilisÃ©s en tant que nouvelles interfaces de communication avec un humain, ou avec notre monde numÃ©rique.<br><br>DiffÃ©rents cas d'usages sur lâ€™intÃ©rÃªt de ces robots seront Ã©voquÃ©s lors de cette confÃ©rence, tels que : Le conseil en magasin, l'orientation dans les espaces grand publics, l'accueil dans les hÃ´tels, l'animation dans les musÃ©es, ou bien le divertissement. Les domaines d'applications sont sans limites.<br>L'intÃ©gration de ces interfaces homme/machine soulÃ¨ve de nouveaux dÃ©fis techniques, qui seront Ã©galement abordÃ©s au travers de diffÃ©rents cas d'usages.",
+      "type": "discovery",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h05",
+      "video": "//www.youtube.com/embed/yerB527Zxa0",
+      "slides": "",
+      "speakers": [
+        "fcalzada"
+      ]
+    },
+    {
+      "id": "s14",
+      "title": "DÃ©ploiement continu, test en production, autoscaling et workflow mÃ©tiers pour vos applications web dans le Cloud",
+      "confRoom": "Salle Bretagne",
+      "desc": "DÃ©ployer des applications webs dans le Cloud permet aux dÃ©veloppeurs de tirer partie de fonctionnalitÃ©s Dev Ops comme le dÃ©ploiement continu, le test en production, l'autoscaling, etc sans avoir Ã  se soucier de l'infrastructure sous jacente.<br>Dans cette session, nous verrons comment le service Azure App Service de Microsoft vous permet d'obtenir cette flexibilitÃ©.",
+      "type": "cloud",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h03",
+      "video": "//www.youtube.com/embed/21v-zVZNJ_k",
+      "slides": "",
+      "speakers": [
+        "btalmard"
+      ]
+    },
+    {
+      "id": "s15",
+      "title": "Firebase, au-delÃ  du Chat. Et si on dÃ©veloppait un plugin Atom de pair-programming?",
+      "confRoom": "Salle Bellem",
+      "desc": "Firebase permet d'Ã©crire de faÃ§on simple et robuste des applications collaboratives.<br>Souvent on en fait la dÃ©monstration en dÃ©veloppant un Chat en 10 lignes de code.<br><br>Nous allons voir comment aller plus loin en dÃ©veloppant un plugin Atom de pair-programming permettant de binÃ´me sur du code grÃ¢ce Ã  Firebase.<br><br>Gestion des sessions, synchronisation de plusieurs curseurs, modifications simultanÃ©es, connections/dÃ©connections...<br><br>Ce live-coding montrera comment mettre en oeuvre Firebase sur une vraie application.<br>Avec des tests !",
+      "type": "cloud",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h08",
+      "video": "//www.youtube.com/embed/F_5kLnAFBD0",
+      "slides": "",
+      "speakers": [
+        "dgageot"
+      ]
+    },
+    {
+      "id": "s16",
+      "title": "Angular 2 in action",
+      "confRoom": "Les machines",
+      "desc": "Dans ce codelab, nous allons dÃ©couvrir le dÃ©veloppement d'applications Web avec Angular 2. Nous prendrons comme exemple, une application de QUIZ que nous allons dÃ©velopper de A Ã  Z et qui nous permettra de manipuler les nouveaux concepts proposÃ©s par cette nouvelle version. Soyez prÃªt Ã  mettre les mains dans le cambouis et Ã  dÃ©bugger du code.<br>WARNING: angular 2 est en developer preview !!!",
+      "type": "codelab-web",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h14",
+      "slides": "",
+      "speakers": [
+        "wchegham"
+      ]
+    },
+    {
+      "id": "s17",
+      "title": "Flexrox",
+      "confRoom": "Salle Titan",
+      "desc": "Acceptez mon bref soliloque<br>De louanges flattant Flexbox<br>Une spec bien loin d'Ãªtre en toc !<br><br>Avant l'avÃ¨nement de Flexbox,<br>Les CSS furent un paradoxe :<br>AlambiquÃ©s et mastocs<br>Parfois un peu loufoques<br>Et pas toujours trÃ¨s orthodoxes<br>... MÃªme sur Firefox !<br><br>Aujourd'hui, vÃ©ritable Ã©lectrochoc<br>Louons les bienfaits de Flexbox<br>Retirez vos toques, posez vos breloques<br>Laissez de cÃ´tÃ© vos docs et vos forks<br>Et lÃ¢chez s'il vous plaÃ®t ce phoque !<br>(et rÃ©ciproque)<br><br>Quelle belle Ã©poque<br>Bref... Ã§a roxe !<br><br>KAMOULOX !",
+      "type": "web",
+      "difficulty": 202,
+      "all": false,
+      "lang": "fr",
+      "hour": "h11",
+      "video": "//www.youtube.com/embed/B66C6WH3Bio",
+      "slides": "",
+      "speakers": [
+        "rgoetter"
+      ]
+    },
+    {
+      "id": "s18",
+      "title": "Harald Ã  la dent bleue dans ton navigateur web",
+      "confRoom": "Salle Bretagne",
+      "desc": "Interagir avec des appareils en Bluetooth depuis une application Web est sur le point de devenir possible grÃ¢ce Ã  une nouvelle API Web standardisÃ©e qui se veut moderne et simple d'utilisation.",
+      "type": "mobile",
+      "difficulty": 202,
+      "all": false,
+      "lang": "fr",
+      "hour": "h05",
+      "video": "//www.youtube.com/embed/6cNZYa5LeGQ",
+      "slides": "",
+      "speakers": [
+        "fbeaufort"
+      ]
+    },
+    {
+      "id": "s19",
+      "title": "React, une autre faÃ§on de penser vos composants web",
+      "confRoom": "Salle Titan",
+      "desc": "React est une librairie JavaScript dÃ©veloppÃ©e par Facebook pour crÃ©er facilement des interfaces graphiques. Contrairement Ã  d'autres librairies, ici pas de templates et de pseudo code, React permet d'utiliser la pleine expressivitÃ© de JavaScript et de bÃ©nÃ©ficier de tous les goodies du langage.<br><br>Le but de React est de proposer une solution permettant de construire des applications consÃ©quentes avec des donnÃ©es qui Ã©voluent dans le temps en Ã©crivant exclusivement des composants rÃ©utilisables et testables tout en gardant une approche simple et efficace.<br><br>Durant ce live coding, nous verrons comment utiliser React dans diverses situations, comment Ã©crire des composants en utilisant ES2015, comment exposer ses composants React en WebComponents et pourquoi Ã©crire des petites applications mobiles natives.",
+      "type": "web",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h05",
+      "video": "//www.youtube.com/embed/DpcGYULpBgw",
+      "slides": "",
+      "speakers": [
+        "mancelin"
+      ]
+    },
+    {
+      "id": "s20",
+      "title": "Advanced Scrolling Techniques on Android",
+      "confRoom": "Salle Bellem",
+      "desc": "Scrolling is one of the most important gesture on mobile platforms. Indeed, it easily allows users to access a fairly large amount of content just by swiping their fingers on screen. In order to implement such gestures, the Android SDK comes with a bunch of scrolling containers: View, ListView, RecyclerView, ScrollView, etc. While using these components independently is relatively simple, it starts getting complicated when nesting themâ€¦ In this session we will go through a complete overview of how Android deals with scrolling in general and how to master the scrolling mechanism to create compelling mobile user experience.",
+      "type": "mobile",
+      "difficulty": 303,
+      "all": false,
+      "lang": "fr",
+      "hour": "h03",
+      "video": "//www.youtube.com/embed/bT-o-c2G0KA",
+      "slides": "",
+      "speakers": [
+        "cmottier"
+      ]
+    },
+    {
+      "id": "s21",
+      "title": "Mark, Marque et Marques",
+      "confRoom": "Salle Titan",
+      "desc": "Mark, Marque et Marquesâ€¦ ou comment crÃ©er une marque et la faire vivre sur une interface. <br>Que ce soit une startup, un nouveau produit ou un projet client, la marque se doit dâ€™Ãªtre au centre de nos pensÃ©es. <br>Tout est liÃ© par la Marque : interface, animations, architectureâ€¦ <br>Designers et dÃ©veloppeurs sont lâ€™Ã©quipe parfaite pour crÃ©er et faire vivre La Marque. <br>Et pourtant, ce nâ€™est pas ce qui se passe aujourdâ€™hui...<br>Cette confÃ©rence est donc pour expliquer ce processus et faire que les dÃ©veloppeurs et designers travaillent main dans la main pour crÃ©er une expÃ©rience inoubliable pour lâ€™utilisateur, inspirante et technologiquement innovante.",
+      "type": "discovery",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h04",
+      "video": "//www.youtube.com/embed/eKw67QduVPM",
+      "slides": "",
+      "speakers": [
+        "mgruaz"
+      ]
+    },
+    {
+      "id": "s22",
+      "title": "Ionic : un framework fun et productif pour dÃ©velopper des applications mobiles hybrides",
+      "confRoom": "Salle Bellem",
+      "desc": "AprÃ¨s 20 ans de Java, vous pensez qu'il est temps de basculer du cÃ´tÃ© mobile de la force mais vous n'avez pas envie de passer des jours Ã  vous former au dÃ©veloppement natif pour toutes les plateformes existantes ? Alors Ionic est fait pour vous !<br><br>Ionic c'est un framework mobile hybride basÃ© sur HTML5, qui va rapidement vous rendre accro tellement il facilite le dÃ©veloppement d'application pour mobile. Il est open source, il embarque avec lui la simplicitÃ© et la puissance d'AngularJS et il ne vous faudra que quelques heures pour dÃ©velopper une application simple mais dÃ©jÃ  fonctionnelle qui pourra Ãªtre dÃ©ployÃ©e sur tous les mobiles ... what else?",
+      "type": "mobile",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h07",
+      "video": "//www.youtube.com/embed/KeZeMWCCrgI",
+      "slides": "",
+      "speakers": [
+        "smoallic",
+        "aneveu"
+      ]
+    },
+    {
+      "id": "s23",
+      "title": "Angular 2 : templates, composants et injection de dÃ©pendances",
+      "confRoom": "Salle Titan",
+      "desc": "La genÃ¨se d'Angular 2 n'est pas achevÃ©e, mais la version alpha permet dÃ©jÃ  de se faire une bonne idÃ©e de ce Ã  quoi il va ressembler. Et c'est bluffant ! Si la version 1 a paru magique, dans sa version 2 c'est un Angular Ã©purÃ©, Ã  la fois plus puissant et plus limpide.<br><br>Dans cette session, rien que du code, pour vous montrer comment se crÃ©ent les composants, s'Ã©crivent les templates et s'injectent les dÃ©pendances.",
+      "type": "web",
+      "difficulty": 202,
+      "all": false,
+      "lang": "fr",
+      "hour": "h03",
+      "video": "//www.youtube.com/embed/mDRhS4dZuCk",
+      "slides": "",
+      "speakers": [
+        "tchatel"
+      ]
+    },
+    {
+      "id": "s24",
+      "title": "8 pratiques clÃ©s en SEO pour les dÃ©veloppeurs",
+      "confRoom": "Salle Graslin",
+      "desc": "Le rÃ©fÃ©rencement web s'apparente souvent Ã  des pratiques propres aux web-marketeurs et rÃ©dacteurs. Dans les faits, la technique web se fait de plus en plus prÃ©sente et permet rÃ©ellement de passer certains caps pour optimiser le positionnement des pages web. Nous allons faire le tour de plusieurs pratiques phares du rÃ©fÃ©rencement que les dÃ©veloppeurs peuvent mettre en place pour rÃ©ussir leur boost SEO.",
+      "type": "discovery",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h08",
+      "video": "//www.youtube.com/embed/7DvBjh50s0c",
+      "slides": "",
+      "speakers": [
+        "mchartier"
+      ]
+    },
+    {
+      "id": "s25",
+      "title": "REST from zero to hero in 45 minutes",
+      "confRoom": "Salle Bretagne",
+      "desc": "Venez dÃ©couvrir - ou redÃ©couvrir ! - les diffÃ©rents ingrÃ©dients qui sont a lâ€™origine dâ€™une bonne API.<br><br>Nous prÃ©senterons la transformation dâ€™une API Web fictive (d'une conception assez discutable ;-) ) en une API REST vraiment user-friendly. Chaque Ã©tape sera lâ€™occasion dâ€™introduire un concept ou une bonne pratique supplÃ©mentaire en partant des bases de REST jusquâ€™aux sujets avancÃ©s tels que le versioning ou lâ€™hypermÃ©dia.<br><br>Vous sortirez de cette session avec une vision claire des concepts cachÃ©s derriÃ¨re le terme \"REST\".",
+      "type": "cloud",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h07",
+      "video": "//www.youtube.com/embed/_k60dxlMjZ4",
+      "slides": "",
+      "speakers": [
+        "arichard",
+        "mboillod"
+      ]
+    },
+    {
+      "id": "s26",
+      "title": "3.14 things I didnâ€™t know about CSS",
+      "confRoom": "Salle Bretagne",
+      "desc": "This talk will showcase a series of obscure CSS fun facts, such as CSS syntax gimmicks and quirks, weird tricks that involve CSS in one way or another, and security vulnerabilities that are enabled by (ab)using CSS in unexpected ways.",
+      "type": "web",
+      "difficulty": 101,
+      "all": false,
+      "lang": "en",
+      "hour": "h04",
+      "video": "//www.youtube.com/embed/FGmBeAvxRaM",
+      "slides": "",
+      "speakers": [
+        "mbynens"
+      ]
+    },
+    {
+      "id": "s27",
+      "title": "WebRTC Update",
+      "confRoom": "Salle Graslin",
+      "desc": "What's new and next for WebRTC for native apps and on the web.<br><br>Draft topics:<br><ul><li>What are the big achievements of the last 12 months?</li><li> What are the big goals for the next 12 months? </li><li> ORTC, Unified Plan, WebRTC 0.9, WebRC 1.0 â€” WTF?</li><li> Codecs</li><li> WebRTC for Android and iOS</li><li> Hardware support</li><li> Amazing apps</li><li> Predictions?</li><li> Developer resources</li></ul>",
+      "type": "web",
+      "difficulty": 202,
+      "all": false,
+      "lang": "en",
+      "hour": "h07",
+      "video": "//www.youtube.com/embed/RGeRfYX-CGU",
+      "slides": "",
+      "speakers": [
+        "sdutton"
+      ]
+    },
+    {
+      "id": "s28",
+      "title": "DÃ©couvrir ES6 par le code",
+      "confRoom": "Salle Titan",
+      "desc": "ES6 ou ES2015, la nouvelle version du JavaScript vient de sortir. Vous avez peut Ãªtre dÃ©jÃ  vu une confÃ©rence Ã  ce sujet mais comment se faire une idÃ©e en ne faisant que parcourir une liste de nouvelles syntaxe ?<br><br>Ici, nous allons faire du code ! En partant de la base dâ€™un code dâ€™une application Angular 1 en JavaScript \"standard\", nous allons la transformer progressivement avec toutes les nouvelles notations.<br><br>Nous passerons ainsi en revu la plupart des nouveaux concepts. En commenÃ§ant par les facilitÃ©s de syntaxe mais en Ã©tudiant aussi les nouveaux paradigmes comme les classes, les promesses jusqu'au generators.<br><br>Le livecoding sera rÃ©alisÃ© avec un environnement de build avec Gulp, Webpack et Babel. Rien que vous ne puissiez reproduire chez vous le soir mÃªme !",
+      "type": "web",
+      "difficulty": 202,
+      "all": false,
+      "lang": "fr",
+      "hour": "h08",
+      "video": "//www.youtube.com/embed/7XZWqF2aHuI",
+      "slides": "",
+      "speakers": [
+        "mlux"
+      ]
+    },
+    {
+      "id": "s29",
+      "title": "Vorlon.js : le debug de sites web plus simple",
+      "confRoom": "Salle Bretagne",
+      "desc": "Quand on est sur son PC avec un navigateur : F12 nous rend toujours un trÃ¨s bon service. Cependant comment avoir la mÃªme expÃ©rience quand veut dÃ©bugger le site sur un tÃ©lÃ©phone ? Des solutions existent mais rien de trÃ¨s simple dâ€™utilisation ou qui fonctionne dans tous les cas.<br><br>Dans ce talk, je vous prÃ©senterais Vorlon.js, un nouvel outil que j'ai co-crÃ©Ã© et qui permet dâ€™obtenir lâ€™expÃ©rience F12, en remote et pour tous les navigateurs",
+      "type": "web",
+      "difficulty": 202,
+      "all": false,
+      "lang": "fr",
+      "hour": "h10",
+      "video": "//www.youtube.com/embed/GcqufwOlXZk",
+      "slides": "",
+      "speakers": [
+        "emargraff"
+      ]
+    },
+    {
+      "id": "s30",
+      "title": "Mon architecture microservices sur un cas d'usage urbanisÃ© en 2 heures chrono avec Docker",
+      "confRoom": "Hangar",
+      "desc": "Le but de cette confÃ©rence est de faire construire une (mini) architecture microservices sur un scÃ©nario d'utilisation simple qui sera dÃ©composÃ© en quelques appels de services autonomes selon les mÃ©thodes de dÃ©couplage de responsabilitÃ©s. Afin que les participants puissent se consacrer Ã  la comprÃ©hension de l'architecture et Ã  l'assemblage final, des squelettes de code seront fournis ainsi que des images Docker.<br> Pour suivre cet atelier, il est prÃ©fÃ©rable d'installer Docker & Docker Compose et rÃ©cuperer le code source disponible Ã  cette url <a href='https://github.com/EditionsENI/mortgage' target='_blank'>https://github.com/EditionsENI/mortgage</a> ",
+      "type": "codelab-cloud",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h13",
+      "slides": "",
+      "speakers": [
+        "jpgouigoux"
+      ]
+    },
+    {
+      "id": "s31",
+      "title": "Redefining PaaS: Managed container based microservices on Google App Engine",
+      "confRoom": "Salle Bellem",
+      "desc": "Microservices are a great model for developing modern applications. But microservice based architectures are more complicated than traditional monolithic apps and can come with a significant management overhead particularly when you need to maintain different environments for dev, test and production. This overhead either falls on your development team or to people you hire specifically to manage it. <br><br>This talk with multiple demos, looks at how to build, test and deploy container based microservice architectures without having to worry about managing the platform on which they run, thus freeing up your developers to do what they do best, writing application code.<br>We'll look at new and enhanced features of Google App Engine and walk through the staged deployment of both a simple application and a more complicated microservices based architecture. We'll also look at how App Engine has evolved from it's original sandboxed runtime environment to what it is today, a next generation platform for building and deploying modern day applications.",
+      "type": "cloud",
+      "difficulty": 202,
+      "all": false,
+      "lang": "fr",
+      "hour": "h04",
+      "video": "//www.youtube.com/embed/oIvMevKT0aU",
+      "slides": "",
+      "speakers": [
+        "lchampenois"
+      ]
+    },
+    {
+      "id": "s32",
+      "title": "Hypermedia in the Shadow of the Death Star",
+      "confRoom": "Salle Graslin",
+      "desc": "\"That's no moon. It's a space station...\" Il est trop tard pour faire demi-tour. Vous sentez la poigne de fer de l'Empire Galactique se refermer sur vous. La lutte est veine mais il y a d'autres faÃ§ons de remporter la victoire. Votre maÃ®trise des pouvoirs de l'HTTP sera indispensable Ã  votre survie. Saurez-vous affronter l'impitoyable Vador ?<br>Que l'Hypermedia soit avec vous.<br>Je vous invite Ã  m'accompagner pour une aventure ludique mÃªlant API web, science-fiction, hypermedia et culture du dÃ©veloppeur. Au travers d'un jeu d'aventure textuel un peu fou, je vous ferai dÃ©couvrir quelques techniques pour amÃ©liorer vos propres API web.",
+      "type": "mobile",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h04",
+      "video": "//www.youtube.com/embed/_TcBu40PyJY",
+      "slides": "",
+      "speakers": [
+        "hwood"
+      ]
+    },
+    {
+      "id": "s33",
+      "title": "L'impact du Machine Learning dans les entreprises et les bests practices pour maximiser les chances de rÃ©ussites d'un projet data",
+      "confRoom": "Salle Graslin",
+      "desc": "Une version peut etre vu ici : https://www.youtube.com/watch?v=oMwKPV9amDE",
+      "type": "cloud",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h05",
+      "video": "//www.youtube.com/embed/X59DRtNOoAs",
+      "slides": "",
+      "speakers": [
+        "fxrousselot"
+      ]
+    },
+    {
+      "id": "s34",
+      "title": "Power optimization for Android",
+      "confRoom": "Salle Bretagne",
+      "desc": "Android devices running on battery need to be optimized for power. If just take a look on the CPU this optimization starts typically with the race to idle, meaning to go to finish the workload as fast as possible. However typical Android devices are running on a SoC with many parts included like CPU, GPU or Audio and Video decoder. All the parts need to be optimized to reduce the power consumption. The Android API provides a number of APIs to help with this and also a power profiling tool can help the developer to understand what hardware parts are active and where he needs to start optimization. <br><br>In the session we will discuss typical causes of high power consumption, how to debug them and provide possible solutions. ",
+      "type": "mobile",
+      "difficulty": 202,
+      "all": false,
+      "lang": "fr",
+      "hour": "h08",
+      "video": "//www.youtube.com/embed/Y3d173up_7c",
+      "slides": "",
+      "speakers": [
+        "xhallade"
+      ]
+    },
+    {
+      "id": "s35",
+      "title": "Go, Polymer, et Cloud Endpoints FTW!",
+      "confRoom": "Salle Titan",
+      "desc": "Soyez prÃªts Ã  lire du code !<br>Le but de ce talk est de montrer comment crÃ©er une application web Ã  partir de zÃ©ro.<br>Tout d'abord je vais prÃ©senter mes outils par dÃ©faut en expliquant pourquoi et comment on peut les utiliser pour crÃ©er des belles applications de faÃ§on simple qui n'auront aucun soucis Ã  gÃ©rer la charge.<br>AprÃ¨s ce sera que du code, des questions, et, si tout va bien, du fun!",
+      "type": "cloud",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h10",
+      "video": "//www.youtube.com/embed/-GXqYPSXKDE",
+      "slides": "",
+      "speakers": [
+        "fcampoy"
+      ]
+    },
+    {
+      "id": "s36",
+      "title": "Graph clustering in Python",
+      "confRoom": "Hangar",
+      "desc": "Clustering of data in a way that will make use of inherent structural information is an increasingly important task for many data scientists. This talk will explore the challenges associated with clustering of complex networked data for the commercial application of search keyword optimisation. We'll take a look at several techniques and demonstrate some of them with the package iGraph, available to Python users. If time permits we shall round off by examining how to visualise the results in an interactive fashion.",
+      "type": "codelab-cloud",
+      "difficulty": 101,
+      "all": false,
+      "lang": "en",
+      "hour": "h15",
+      "slides": "",
+      "speakers": [
+        "fkelly"
+      ]
+    },
+    {
+      "id": "s37",
+      "title": "Formation Gratuite Google BigQuery",
+      "confRoom": "Pommeraye",
+      "desc": "Vous avez la possibilitÃ© de suivre pendant la confÃ©rence DevFest 2015 Ã  Nantes une demi-journÃ©e de formation technique gratuite d'une valeur de $500 sur la plate-forme Google BigQuery* avec Didier Girard, Expert Google Cloud Platform. A l'issue de celle-ci une coupon d'une valeur de $100 pour obtenir une certification vous sera remis. La formation a lieu sur le site de la confÃ©rence dans la salle Pommeraye.<br><br>* Google BigQuery: kezako?<br>BigQuery (<a href='cloud.google.com/bigquery' target='_blank'>cloud.google.com/bigquery</a>) permet de requÃªter en SQL et en quelques secondes des quantitÃ©s massives de donnÃ©es sans mettre en oeuvre d'infrastructure complexe et couteuse. La puissance de Google au service de votre Big Data!<br><br>Attention : le nombre de places est limitÃ© et votre participation vous sera confirmÃ©e ultÃ©rieurement.<br><br><b>IMPORTANT: Il vous est demandÃ© de venir avec votre ordinateur portable Windows, Mac ou Linux et de crÃ©er au prÃ©alable un compte gratuit Google Cloud Platform sur cloud.google.com.</b><br><br>Agenda de la formation CP304 : <ul><li>Basics (Use Cases, Project Hierarchy, Access Control and Security, Datasets and Tables, Tools)</li><li>Developer (Query Syntax, Programmatic Access, Best Practices)</li><li>Advanced (Under the hood Dremel Architecture, Building EndÂ­ToÂ­End solutions)</li></ul><br><br>Vous pouvez vous inscrire avec ce lien <a href='https://docs.google.com/forms/d/1Mt-SQ0niANYQPJ0FEkaHcL7gbXeoXx3HpWyrybbi2ZU/viewform' target='_blank'>Formulaire d'inscription</a>",
+      "type": "formation",
+      "difficulty": 101,
+      "all": false,
+      "lang": "fr",
+      "hour": "h16",
+      "slides": "",
+      "speakers": [
+        "dgirard"
+      ]
+    },
+    {
+      "id": "s1",
+      "title": "Accueil",
+      "confRoom": "Espace Chateau des ducs",
+      "desc": "Profitez de cet instant pour dÃ©guster une collation et un cafÃ© avant d'enchaÃ®ner sur une journÃ©e bien remplie ! ;)",
+      "type": "white",
+      "all": true,
+      "hour": "h01"
+    },
+    {
+      "id": "s2",
+      "title": "Keynote",
+      "confRoom": "Salle Titan",
+      "desc": "ConfÃ©rence d'ouverture du DevFest",
+      "type": "white",
+      "all": true,
+      "video": "//www.youtube.com/embed/XEszXTAeIeA",
+      "hour": "h02",
+      "speakers": [
+        "tguenoux",
+        "eissartial"
+      ]
+    },
+    {
+      "id": "s97",
+      "confRoom": "Espace Tour Lu",
+      "title": "DÃ©jeuner",
+      "type": "white",
+      "desc": "<strong>Repas offert pour tous les participants.</strong><br>Profitez-en pour faire un tour des diffÃ©rents stands et dÃ©mos.",
+      "all": true,
+      "hour": "h06",
+      "speakers": []
+    },
+    {
+      "id": "s98",
+      "confRoom": "Espace Chateau des ducs",
+      "title": "Pause",
+      "type": "white",
+      "all": true,
+      "hour": "h09"
+    },
+    {
+      "id": "s99",
+      "confRoom": "Espace Bouffay",
+      "title": "Afterparty",
+      "type": "white",
+      "desc": "Un moment de networking convivial pour les plus motivÃ©s :)<br> L'utilisation de votre smartphone est fortement recommandÃ©e ;)",
+      "all": true,
+      "hour": "h12"
+    },
+    {
+      "id": "s100",
+      "confRoom": "Salle Bellem",
+      "title": "Table Ronde â€œProgrammer avec les enfants : pourquoi ? comment ?â€œ",
+      "type": "white",
+      "desc": "<b>Table Ronde : â€œProgrammer avec les enfants : pourquoi ? comment ?â€œ</b> - 13h00 : <br>Beaucoup d'initiatives actuelles permettent aux enfants d'apprendre Ã  programmer.<br><br>Pourquoi un tel intÃ©rÃªt ? Que cela peut-il apporter Ã  nos chÃ¨res tÃªtes blondes ? Et comment s'y prendre ?<br><br>Cette table ronde prÃ©sentera rapidement les diffÃ©rentes initiatives prÃ©sentes et la liste des outils utilisables.",
+      "all": true,
+      "hour": "h06",
+      "speakers": [
+        "cbossard",
+        "jpalies"
+      ]
+    }
+  ]
+}
