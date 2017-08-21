@@ -1,5 +1,7 @@
 import * as jquery from 'jquery';
 
+import 'bootstrap/dist/css/bootstrap.css'
+
 export default class SpeakerList {
 	constructor(talkService) {
 		this.talkService = talkService;
@@ -12,14 +14,12 @@ export default class SpeakerList {
 
 				jquery(idView).html('<ul><li>' 
 					+ speakers.map(sp => {return `<li>${sp.firstname}</li>`}).join('')
-				    + '</li></ul>');
+				    + '</li></ul>'+ '<button class="btn btn-primary btn-success">hello Bootstrap</button>');
 				
+
 			});
 
 	}
-
-
-
 	renderSession(idView) {
 		this.talkService.getAllSessions()
 			.then(sessions => {
