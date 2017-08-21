@@ -9,7 +9,7 @@ const speakerList = new SpeakerList(talkService);
 
 let jquery = require('jquery');
 /*
-let listSpeakers = [];
+
 talkService.getAllSpeakers()
 	.then(speakers => {
 		speakers.forEach(function(e){
@@ -32,9 +32,29 @@ const layout = new Layout();
 layout.render();
 
 
-speakerList.render('#main-view');	
+speakerList.renderSpeakers('#main-view');	
 
 
+//------------------------Routeur---------------------------
+var router = () => {
+	if (location.hash == '#speakers-list') {
+		// TODO afficher vue liste des présentateurs
+		speakerList.renderSpeakers('#main-view');
 
+	} else if (location.hash == '#sessions-list') {
+		// TODO afficher vue liste des sessions
+		
+		speakerList.renderSession('#main-view');
+			
 
+	} else {
+		// TODO afficher vue par défaut
+	}
+}
+window.addEventListener('load', () => {
+	window.onhashchange = () => {
+		router();
+	};
+	router();
+});
 

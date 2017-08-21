@@ -6,9 +6,7 @@ export default class SpeakerList {
 		
 	};
 	
-	render(idView) {
-		//let res = "";
-		let resTab = [];
+	renderSpeakers(idView) {
 		this.talkService.getAllSpeakers()
 			.then(speakers => {
 
@@ -16,24 +14,19 @@ export default class SpeakerList {
 					+ speakers.map(sp => {return `<li>${sp.firstname}</li>`}).join('')
 				    + '</li></ul>');
 				
-				/*jquery(idView).html('<table border=1>' 
-					+'<thead>'
-						+<'tr>'
-							+'<th>Firstname</th>'
-						+'</tr>'
-					+'</thead>'
+			});
 
-						+'<tbody>'
-							+'<tr>'
-								+'<td>'
-									+ speakers.map(sp => {return `<li>${sp.firstname}</li>`}).join('') 
-								+'</td>'
-							+'</tr>'
-						+'</tbody>'
+	}
 
 
 
-					+ '</table>');*/
+	renderSession(idView) {
+		this.talkService.getAllSessions()
+			.then(sessions => {
+
+				jquery(idView).html('<ul><li>' 
+					+ sessions.map(ss => {return `<li>${ss.title}</li>`}).join('')
+				    + '</li></ul>');
 				
 			});
 
