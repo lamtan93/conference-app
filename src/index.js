@@ -4,10 +4,15 @@ import TalkService from './common/talk.service';
 import ContentBody from './layout/layout.html';
 import SpeakerList from './speakers/list/index';
 
+import css from './statique/myStyle.css';
+
 const talkService = new TalkService();
 const speakerList = new SpeakerList(talkService);
 
 let jquery = require('jquery');
+
+
+
 /*
 
 talkService.getAllSpeakers()

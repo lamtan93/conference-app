@@ -12,10 +12,28 @@ export default class SpeakerList {
 		this.talkService.getAllSpeakers()
 			.then(speakers => {
 
-				jquery(idView).html('<ul><li>' 
-					+ speakers.map(sp => {return `<li>${sp.firstname}</li>`}).join('')
-				    + '</li></ul>'+ '<button class="btn btn-primary btn-success">hello Bootstrap</button>');
-				
+				 jquery(idView).html(
+				 	'<div class="container">'
+					 	+'<div class="row">'
+						 	+'<div class="col col-lg-4 col-lg-offset-4 ">'
+							 	+'<table class="table table-hover">'
+								 	+'<thead>'
+									 	+'<tr>'
+										 	+'<th>'
+										 		+'Firstname'
+										 	+'</th>'
+									 	+'<tr>'
+								 	+'</thead>'
+								 	+'<tbody>'
+								 	 
+										+ speakers.map(sp => {return `<tr><td>${sp.firstname}</td></tr>`}).join('  ')
+								    
+								    +'</tbody>'
+							    + '</table>'
+						    +'</div>'
+					    +'</div>'
+				    +'</div>'
+				    );   
 
 			});
 
@@ -23,11 +41,30 @@ export default class SpeakerList {
 	renderSession(idView) {
 		this.talkService.getAllSessions()
 			.then(sessions => {
-
-				jquery(idView).html('<ul><li>' 
-					+ sessions.map(ss => {return `<li>${ss.title}</li>`}).join('')
-				    + '</li></ul>');
 				
+
+				 jquery(idView).html(
+				 	'<div class="container">'
+					 	+'<div class="row">'
+						 	+'<div class="col col-lg-4 col-lg-offset-4 ">'
+							 	+'<table class="table table-hover">'
+								 	+'<thead>'
+									 	+'<tr>'
+										 	+'<th>'
+										 		+'Title'
+										 	+'</th>'
+									 	+'<tr>'
+								 	+'</thead>'
+								 	+'<tbody>'
+								 	 
+										+ sessions.map(ss => {return `<tr><td>${ss.title}</td></tr>`}).join('  ')
+								   
+								    +'</tbody>'
+							    + '</table>'
+						    +'</div>'
+					    +'</div>'
+				    +'</div>'
+				    );
 			});
 
 	}
