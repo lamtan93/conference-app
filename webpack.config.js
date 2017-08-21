@@ -5,16 +5,28 @@ var HtmlWebpackPlugin = require('html-webpack-plugin');
 //console.log( path.resolve(__dirname, "build"));
 
 module.exports = {
-// définition des points d'entrée
-// il est possible de définir plusieurs points d'entrée
+
 	entry: './src/index.js',
 	output: {
 		path: path.resolve(__dirname, "dist"),
 		filename: "bundle.js"
 	},
+
+	
+
 	plugins: [
 	/*new UglifyJSPlugin(),*/
 	new HtmlWebpackPlugin(),
 	//new jquery();
-	]
+	],
+
+	
+	module: {
+	  rules: [{
+	    test: /\.html$/,
+	    use: [ {
+	      loader: 'html-loader',
+	    }]
+	  }]
+	}
 };

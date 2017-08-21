@@ -2,7 +2,6 @@ import * as jquery from 'jquery';
 
 let linkGetAllSpeakers = "http://localhost:3000/speakers";
 
-
 export default class TalkService {
 
 	constructor() {}
@@ -15,10 +14,6 @@ export default class TalkService {
 				resolve(data);
 			});
 		})
-
-
 	}
 
 }
-
- 
