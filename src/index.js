@@ -1,21 +1,16 @@
 alert('Conférence App démarré !');
-var jquery = require('jquery');
 
-var moduleTalkService = require('./common/talk.service.js');
+import TalkService from './common/talk.service';
 
-   moduleTalkService.listSpeakers()
+const talkService = new TalkService();
+
+let jquery = require('jquery');
+
+let listSpeakers = [];
+   talkService.getAllSpeakers()
 	    .then(speakers => {
-	    	alert(`${speakers}`);
+	    	//console.log(`${speakers}`);
+	    	`${speakers.forEach(function(e){
+				console.log(e.firstname);
+			})}`;
 	    });
-	    
-
-
-
-/*
-var linkGetAllSpeakers = "http://localhost:3000/speakers";
-var res = [];
-$.ajax(linkGetAllSpeakers)
-.done((speakers) => {
-  
- alert(`${speakers}`);
-});*/

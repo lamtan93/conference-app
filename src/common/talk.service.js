@@ -1,16 +1,24 @@
-var jquery = require('jquery');
+import * as jquery from 'jquery';
 
-var linkGetAllSpeakers = "http://localhost:3000/speakers";
+let linkGetAllSpeakers = "http://localhost:3000/speakers";
 
-exports.listSpeakers = function getAllSpeakers() {
-    
-           jquery.get(linkGetAllSpeakers, (data) => {
-                return new Promise((resolve, reject) => {
-                    resolve(data)
-                })
-            });
 
-        }
-    
+export default class TalkService {
+
+	constructor() {}
+
+	getAllSpeakers() {
+		return new Promise((resolve, reject) => {
+
+			jquery.get(linkGetAllSpeakers, function(data, status) {
+
+				resolve(data);
+			});
+		})
+
+
+	}
+
+}
 
  
