@@ -4,28 +4,23 @@ import TalkService from './common/talk.service';
 import ContentBody from './layout/layout.html';
 import SpeakerList from './speakers/list/index';
 
-import css from './statique/myStyle.css';
+import css from './statique/myCss/myStyle.css';
+
+//import monJquery from './statique/jquery/monJquery.js';
 
 const talkService = new TalkService();
-const speakerList = new SpeakerList(talkService);
+const dao = new SpeakerList(talkService);
 
 let jquery = require('jquery');
 
 
-
-/*
-
-talkService.getAllSpeakers()
-	.then(speakers => {
-		speakers.forEach(function(e){
-				listSpeakers.push(e);
-				console.log(e.firstname);
-				
-			});
-		alert(listSpeakers.length);
-
-	});
-*/
+  jquery(document).ready(function() {
+        jquery("#liPrincipal").click(function() {
+            jquery("#zoneToHide").toggle(300);
+            jquery(".divContain").toggle(100);
+        });
+    });
+ 
 class Layout{
 	constructor(){}
 	render(){
@@ -36,22 +31,19 @@ class Layout{
 const layout = new Layout();
 layout.render();
 
+//----Page d'accueil-------
+//dao.renderSpeakers('#main-view');	
 
-speakerList.renderSpeakers('#main-view');	
 
 
 //------------------------Routeur---------------------------
 var router = () => {
 	if (location.hash == '#speakers-list') {
-		// TODO afficher vue liste des présentateurs
-		speakerList.renderSpeakers('#main-view');
+		dao.renderSpeakers('#main-view');
 
 	} else if (location.hash == '#sessions-list') {
-		// TODO afficher vue liste des sessions
-		
-		speakerList.renderSession('#main-view');
-			
-
+	
+		dao.renderSession('#main-view');	
 	} else {
 		// TODO afficher vue par défaut
 	}

@@ -1,0 +1,89 @@
+#main-view
+{
+	font-size: 13px;
+	color: white;
+}
+
+
+	body {
+        background-image: url("/src/statique/img/apple.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+
+
+    .monDropdown {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .monLi {
+
+        display: block;
+        margin-top: 9px;
+        background: #d4d4d4;
+        padding: 5px;
+        list-style-type: none;
+        border-radius: 5px;
+    }
+
+    #liPrincipal {
+        margin-right: 230px;
+    }
+
+    #iconMenu {
+        float: right;
+        margin-top: -23px;
+    }
+
+    .monLi:hover {
+        background: #f2802d;
+        font-size: 17px;
+    }
+
+    .monLi a {
+        text-decoration: none;
+        color: black;
+    }
+
+    #zoneToHide {
+        display: none;
+    }
+
+
+    .divContain {
+        margin-top: 247px;
+        color: #fbfbfb;
+        text-align: center;
+    }
+
+    #title {
+        font-size: 50px;
+    }
+
+    #date {
+        font-size: 10px;
+        color: white;
+    }
+
+
+    .bouton {
+        display: block;
+        background: #fff1c2;
+        padding: 10px;
+        margin-top: 5px;
+        border-radius: 5px;
+    }
+
+    .bouton a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .bouton:hover {
+        background: #f2802d;
+
+        font-size: 17px;
+    }
+
